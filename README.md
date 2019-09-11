@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="http://ant.design">
+  <a href="https://designqube.com/">
     <img width="200" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
   </a>
 </p>
 
-<h1 align="center">Ant Design</h1>
+<h1 align="center">DesignQube Work Flow Management, HRM & CRM Tool</h1>
 
 <div align="center">
 
